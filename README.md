@@ -1,5 +1,5 @@
 # Secure User Authentication System (PHP & MySQL)
-
+### 🌐 [Live Demo](http://arwa-dev.infinityfreeapp.com/)
 A professional-grade Login and Registration system built with PHP, focusing on security and clean code structure. This project demonstrates core web development concepts including session management, secure password hashing, and PDO for database interactions.
 
 ## 🚀 Key Features
